@@ -1,12 +1,17 @@
 # AAL_Project_Course
 This git hub was created for the project course assisted living. The goal therefore is to develope a application with the EduExo prothesis.
 
-## Team-Members and Tasks
+## Team-Members & (Tasks)
 - Martina Adler
 - Sophia Pellegrini
 - Julia Jackermaier
 - Sandro Müller (Backend-Software Arduino)
 
+Tasks not distributed: 
+- (Frontend-Software Unity)
+- (Interface between Arduino and Unity)
+- (Documentation and Research)
+  
 ## Concept of the project 
 The concept for Post-Elbow Surgery Rehabilitation Device by Jan Veneman 
 
@@ -33,4 +38,6 @@ Benefits and Considerations:
 - Potential benefits include enhanced patient rehabilitation and reduced risk of joint re-injury. 
 - The Unity platform's flexibility permits accurate angle adjustments for personalized treatment. 
 
+## Structure 
+The project consist of two main software components the frontend (Unity) and the backend (Arduino-Software) and utilising this combination to enhance the rehabilitation of patients after a post elbow surgery. This project should showcase the ability of the EduExo or similar Exo-Skeletons. 
  
