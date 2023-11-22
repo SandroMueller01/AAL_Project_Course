@@ -10,7 +10,7 @@ This git hub was created for the project course assisted living. The goal theref
 Tasks not distributed: 
 - (Frontend-Software Unity)
 - (Interface between Arduino and Unity)
-- (Documentation and Research)
+- (Frontend-Software Unity)
   
 ## Concept of the project 
 The concept for Post-Elbow Surgery Rehabilitation Device by Jan Veneman 
