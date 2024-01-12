@@ -40,6 +40,7 @@ public class functioningcolorandmovement : MonoBehaviour
     void Update()
     {
         ColorWall();
+      
         MoveBall();
     }
 
@@ -49,13 +50,13 @@ public class functioningcolorandmovement : MonoBehaviour
         float verticalInput = Input.GetKey(KeyCode.UpArrow) ? 1f : Input.GetKey(KeyCode.DownArrow) ? -1f : 0f;
 
         // Wenn die linke Pfeiltaste gedrückt wurde und Y-Wert zwischen 9 und 13 liegt
-        if (Input.GetKeyDown(KeyCode.LeftArrow) && transform.position.y >= 9f && transform.position.y <= 13f)
+        if (Input.GetKeyDown(KeyCode.LeftArrow))
         {
             // Zum vorherigen Snapping-Punkt auf der X-Achse springen lassen
             JumpToPreviousXSnapPoint();
         }
         // Wenn die rechte Pfeiltaste gedrückt wurde und Y-Wert zwischen 9 und 13 liegt
-        else if (Input.GetKeyDown(KeyCode.RightArrow) && transform.position.y >= 9f && transform.position.y <= 13f)
+        else if (Input.GetKeyDown(KeyCode.RightArrow))
         {
             // Zum nächsten Snapping-Punkt auf der X-Achse springen lassen
             JumpToNextXSnapPoint();
