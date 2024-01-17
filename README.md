@@ -2,16 +2,12 @@
 This git hub was created for the project course assisted living. The goal therefore is to develope a application with the EduExo prothesis.
 
 ## Team-Members & (Tasks)
-- Martina Adler
-- Sophia Pellegrini
-- Julia Jackermaier
-- Sandro Müller (Backend-Software Arduino)
+- Martina Adler (Frontend-Software Unity, Documentation) 
+- Sophia Pellegrini (Documentation, Frontend Design, Concept-Work)
+- Julia Jackermaier (Documentation, Presentation, Concept-Work) 
+- Sandro Müller (Backend-Software Arduino, Frontend-Software Unity, Interface Arduino-Unity)
 
-Tasks not distributed: 
-- (Frontend-Software Unity)
-- (Interface between Arduino and Unity)
-- (Frontend-Software Unity)
-  
+
 ## Concept of the project 
 The concept for Post-Elbow Surgery Rehabilitation Device by Jan Veneman 
 
